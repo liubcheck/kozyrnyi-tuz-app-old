@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KozyrnyiTuzApp</string>
+    <string name="title_home">Головна</string>
+    <string name="title_search">Пошук</string>
+    <string name="title_orders">Замовлення</string>
+    <string name="title_shopping_cart">Кошик</string>
+    <string name="title_profile">Профіль</string>
+    <string name="liubcheck">Любомир Степаненко</string>
+    <string name="yurii">Юрій Латешкін</string>
+    <string name="my_bookings">Мої бронювання</string>
+    <string name="my_promocodes">Мої промокоди</string>
+    <string name="logout">Вихід</string>
+</resources>
